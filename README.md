@@ -7,7 +7,10 @@ I hold a Bachelor in Ag Engineering from Iowa State University with much course 
 - 📚 **PhD Journey:** Throughout my PhD journey, I'm dedicated to bridging the gap between scientific advancements and practical applications in agriculture and energy production. My research endeavors to provide farmers and energy producers with valuable insights and tools to make informed decisions that benefit both the environment and their bottom line.
 - 💻 **GitHub Repositories:** Take a look at the repositories corresponding to each article and project related to my PhD. Feel free to explore and contribute!
     - Mapping-Iowa-FEW-Nexus at <https://github.com/jbtuthill/mapping_ia_few>
-- 📝 **Publications:** You can also find my publications below.
+    - IFEWs Miles at <https://github.com/jbtuthill/ifews_miles/> (under construction)
+    - IFEWs MCDM at <https://github.com/jbtuthill/ifews_mcdm/> (under construction)
+- 📝 **Publications:
+    - Mapping the Nexus: A County-Level Analysis and Visualization of Iowa’s Food–Energy–Water Systems. Sustainability 2024, 16, 5591. <https://doi.org/10.3390/su16135591>
 - 📫 **Connect with Me:** Interested in collaborating or discussing research? You can reach me via https://www.linkedin.com/in/juliabrittestuthill/.
 - 🌟 **Fun Fact:** When I'm not immersed in research, you can often find me experimenting in the kitchen, particularly with Korean and Japanese cuisine—a delightful departure from my Brazilian roots! Additionally, I cherish spending quality time with my family, whether it's enjoying a meal together or engaging in fun activities. I also love supporting my husband's woodworking projects, offering maybe too many ideas. Balancing academia with these fulfilling hobbies brings joy and inspiration to my life.
 
